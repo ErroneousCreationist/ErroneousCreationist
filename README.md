@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ErroneousCreationist
 - 👀 I’m interested in video games and stuff
-- 🌱 I’m currently making cool (terrible) games with unity
+- 🌱 I’m currently making cool (terrible) games with unity, and sometimes with other things like python and stuff.
+- Fuck John Riccitiello 
 
 <!---
 ErroneousCreationist/ErroneousCreationist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
